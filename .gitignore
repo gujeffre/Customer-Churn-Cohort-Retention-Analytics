@@ -1,0 +1,12 @@
+# OS-generated metadata files
+.DS_Store
+Thumbs.db
+
+# Local environment or IDE configurations
+.vscode/
+.idea/
+
+# Local database backups or dump logs (just in case)
+*.log
+*.dump
+*.bak
